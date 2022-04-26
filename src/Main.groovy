@@ -2,6 +2,7 @@ import static Square.square
 import static Division.divide
 import static Subtract.subtract
 import static Sum.sum
+import static Multiply.multiply
 
 def name = "Matthew"
 int programmingPoints = 10
